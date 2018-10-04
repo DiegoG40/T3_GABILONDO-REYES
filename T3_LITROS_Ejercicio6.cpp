@@ -13,7 +13,7 @@ int main()
 	cin>>litros;
 	if(litros<=50)
 	{
-		gasto1=0;
+		gasto1=150;
 		gasto2=0;
 	}
 	else if (litros>50 && litros <=200)
